@@ -1,5 +1,5 @@
 onst Web3 = require('web3');
-const ethNetwork = 'https://polygon-mumbai.infura.io/v3/9dc2e639bd894ef6a03b511c7f41a84c';
+const ethNetwork = 'Infura API key';
 const web3 = new Web3(new Web3.providers.HttpProvider(ethNetwork));
 // configuration for Infura APi, wallet keys and contract address
 const API_KEY = "infura api key";
